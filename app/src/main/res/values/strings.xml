@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name" translatable="false">Quizzy</string>
+    <string-array name="question2">
+        <item name="question">Who wakes up in an empty and decaying pool?</item>
+        <item name="optiona">Eleven</item>
+        <item name="optionb">Barb</item>
+        <item name="optionc">Mike</item>
+        <item name="answers">Barb</item>
+    </string-array>
+    <string-array name="question3">
+        <item name="question">Whose body did Mike, Dustin and Lucas find in the water?</item>
+        <item name="optiona">Barb</item>
+        <item name="optionb">Eleven</item>
+        <item name="optionc">Apparent Will\'s body</item>
+        <item name="answers">Apparent Will\'s body</item>
+    </string-array>
+    <string-array name="question4">
+        <item name="question">What was the condition of Barb’s corpse when Eleven found it?</item>
+        <item name="optiona">Drowned</item>
+        <item name="optionb">With a slug-like creature crawling out of her mouth</item>
+        <item name="optionc">Burned</item>
+        <item name="answers">With a slug-like creature crawling out of her mouth</item>
+    </string-array>
+    <string-array name="question5">
+        <item name="question">Who found Will alive?</item>
+        <item name="optiona">Eleven</item>
+        <item name="optionb">Mike</item>
+        <item name="optionc">Nancy</item>
+        <item name="answers">Eleven</item>
+    </string-array>
+    <string-array name="question6">
+        <item name="question">Who revived Will?</item>
+        <item name="optiona">Eleven</item>
+        <item name="optionb">Dusten</item>
+        <item name="optionc">Hopper and Joyce</item>
+        <item name="answers">Hopper and Joyce</item>
+    </string-array>
+    <string-array name="question7">
+        <item name="question">Who plays Eleven?</item>
+        <item name="optiona">Natalia Dyer</item>
+        <item name="optionb">Milly Bobbie Brown</item>
+        <item name="optionc">Winona Ryder</item>
+        <item name="answers">Milly Bobbie Brown</item>
+    </string-array>
+    <string-array name="question8">
+        <item name="question">Who had a vision of a shadowy monster from the Upside Down trying to catch him?</item>
+        <item name="optiona">Eleven</item>
+        <item name="optionb">Will</item>
+        <item name="optionc">Barb</item>
+        <item name="answers">Will</item>
+    </string-array>
+    <string-array name="question9">
+        <item name="question">Who entered the tunnels to rescue Hopper?</item>
+        <item name="optiona">Bob and Joice</item>
+        <item name="optionb">Eleven</item>
+        <item name="optionc">Mike and Dustin</item>
+        <item name="answers">Bob and Joice</item>
+    </string-array>
+    <string-array name="question10">
+        <item name="question">Which channel distributes "Stranger things"?</item>
+        <item name="optiona">Showtime</item>
+        <item name="optionb">Netflix</item>
+        <item name="optionc">HBO</item>
+        <item name="answers">Netflix</item>
+    </string-array>
+    <array name="all_questions">
+        <item>@array/question2</item>
+        <item>@array/question3</item>
+        <item>@array/question4</item>
+        <item>@array/question5</item>
+        <item>@array/question6</item>
+        <item>@array/question7</item>
+        <item>@array/question8</item>
+        <item>@array/question9</item>
+        <item>@array/question10</item>
+    </array>
+    <string-array name="text">
+        <item>Completed 1 out of 10</item>
+        <item>Completed 2 out of 10</item>
+        <item>Completed 3 out of 10</item>
+        <item>Completed 4 out of 10</item>
+        <item>Completed 5 out of 10</item>
+        <item>Completed 6 out of 10</item>
+        <item>Completed 7 out of 10</item>
+        <item>Completed 8 out of 10</item>
+        <item>Completed 9 out of 10</item>
+    </string-array>
+    <string name="button_text">next</string>
+    <string name="button_text_end">finish</string>
+</resources>
